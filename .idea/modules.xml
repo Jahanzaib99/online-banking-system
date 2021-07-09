@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../app_one/.idea/app_one.iml" filepath="$PROJECT_DIR$/../../app_one/.idea/app_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sparecarparts.iml" filepath="$PROJECT_DIR$/.idea/sparecarparts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wearestartpoint-custom-nitrous-dev-897fc35f34d3/.idea/wearestartpoint-custom-nitrous-dev-897fc35f34d3.iml" filepath="$PROJECT_DIR$/../wearestartpoint-custom-nitrous-dev-897fc35f34d3/.idea/wearestartpoint-custom-nitrous-dev-897fc35f34d3.iml" />
+    </modules>
+  </component>
+</project>
